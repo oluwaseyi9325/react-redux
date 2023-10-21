@@ -1,0 +1,4 @@
+
+const details={
+    name:"Rajesh",
+}

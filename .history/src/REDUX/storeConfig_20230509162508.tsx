@@ -1,0 +1,2 @@
+
+const Allreducers = combineReducers({
